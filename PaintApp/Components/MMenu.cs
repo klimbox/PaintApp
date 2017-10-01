@@ -1,22 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Paint.UI
+namespace PaintApp.Components
 {
-    public partial class Form1 : Form
+    public partial class MMenu : MenuStrip
     {
-        public Form1()
+        public MMenu()
         {
             InitializeComponent();
         }
-
-
     }
 }
