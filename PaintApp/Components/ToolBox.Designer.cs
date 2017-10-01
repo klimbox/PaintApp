@@ -311,8 +311,10 @@
             this.Controls.Add(this.Text_groupBox);
             this.Controls.Add(this.Width_groupBox);
             this.Controls.Add(this.Type_groupBox);
+            this.MaximumSize = new System.Drawing.Size(170, 390);
+            this.MinimumSize = new System.Drawing.Size(170, 390);
             this.Name = "ToolBox";
-            this.Size = new System.Drawing.Size(171, 390);
+            this.Size = new System.Drawing.Size(170, 390);
             this.Type_groupBox.ResumeLayout(false);
             this.Width_groupBox.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();

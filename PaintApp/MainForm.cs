@@ -7,16 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Paint.Presenter.Views;
+
 
 namespace Paint.UI
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form, IMainView
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
-
 
     }
 }

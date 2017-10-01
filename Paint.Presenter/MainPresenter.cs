@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paint.Model
+namespace Paint.Presenter
 {
-    public class Class1
+    class MainPresenter : IPresenter
+
     {
     }
 }

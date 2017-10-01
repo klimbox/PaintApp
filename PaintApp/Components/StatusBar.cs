@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PaintApp.Components
 {
-    public partial class MMenu : UserControl
+    public partial class StatusBar : UserControl
     {
-        public MMenu()
+        public StatusBar()
         {
             InitializeComponent();
         }

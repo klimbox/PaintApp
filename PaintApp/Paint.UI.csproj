@@ -57,6 +57,12 @@
     <Compile Include="Components\MMenu.Designer.cs">
       <DependentUpon>MMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Components\StatusBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\StatusBar.Designer.cs">
+      <DependentUpon>StatusBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Components\ToolBar.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -69,16 +75,19 @@
     <Compile Include="Components\ToolBox.Designer.cs">
       <DependentUpon>ToolBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Components\MMenu.resx">
       <DependentUpon>MMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\StatusBar.resx">
+      <DependentUpon>StatusBar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Components\ToolBar.resx">
       <DependentUpon>ToolBar.cs</DependentUpon>
@@ -86,8 +95,8 @@
     <EmbeddedResource Include="Components\ToolBox.resx">
       <DependentUpon>ToolBox.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -110,6 +119,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Paint.Presenter\Paint.Presenter.csproj">
+      <Project>{8202c50f-c0e1-4854-860c-8c2842a0e1cf}</Project>
+      <Name>Paint.Presenter</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
