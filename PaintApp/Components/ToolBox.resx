@@ -117,4 +117,600 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="comboBoxTxtSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 21</value>
+  </data>
+  <data name="&gt;&gt;btnTxtColor.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnRRect.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="comboBoxTxtSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 63</value>
+  </data>
+  <data name="Type_groupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Width_groupBox.Name" xml:space="preserve">
+    <value>Width_groupBox</value>
+  </data>
+  <data name="numericUpDown1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="comboBoxFont.Items2" xml:space="preserve">
+    <value>Calibri</value>
+  </data>
+  <data name="&gt;&gt;Text_groupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBoxTxtAlign.Items3" xml:space="preserve">
+    <value>Down</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Name" xml:space="preserve">
+    <value>btnSave</value>
+  </data>
+  <data name="&gt;&gt;labelSize.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;Width_groupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Type_groupBox.Text" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="btnLineColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="Width_groupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRect.Parent" xml:space="preserve">
+    <value>Type_groupBox</value>
+  </data>
+  <data name="btnTxtColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 25</value>
+  </data>
+  <data name="btnLine.Text" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="&gt;&gt;Type_groupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnEllipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelFont.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 13</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtSize.Name" xml:space="preserve">
+    <value>comboBoxTxtSize</value>
+  </data>
+  <data name="btnLineColor.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRRect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="numericUpDown1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 23</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtAlign.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRect.Name" xml:space="preserve">
+    <value>btnRect</value>
+  </data>
+  <data name="btnLoad.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Name" xml:space="preserve">
+    <value>trackBar1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnLine.Name" xml:space="preserve">
+    <value>btnLine</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;labelSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnRRect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="labelSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 66</value>
+  </data>
+  <data name="comboBoxTxtAlign.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 87</value>
+  </data>
+  <data name="btnEllipse.Text" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;btnLine.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnRect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 20</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Parent" xml:space="preserve">
+    <value>SaveLoad_groupBox</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtSize.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnRect.Text" xml:space="preserve">
+    <value>Rectangle</value>
+  </data>
+  <data name="labelAlign.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnTxtColor.Text" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="btnRect.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Type_groupBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="numericUpDown1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="labelSize.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>170, 390</value>
+  </data>
+  <data name="btnRRect.Text" xml:space="preserve">
+    <value>RoundRect</value>
+  </data>
+  <data name="comboBoxFont.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 21</value>
+  </data>
+  <data name="&gt;&gt;Width_groupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtAlign.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;btnLineColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 13</value>
+  </data>
+  <data name="Width_groupBox.Text" xml:space="preserve">
+    <value>Color / Width</value>
+  </data>
+  <data name="&gt;&gt;labelAlign.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxTxtSize.Items1" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="Text_groupBox.Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="&gt;&gt;btnTxtColor.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Parent" xml:space="preserve">
+    <value>SaveLoad_groupBox</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 16</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 110</value>
+  </data>
+  <data name="Text_groupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 138</value>
+  </data>
+  <data name="&gt;&gt;labelFont.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;comboBoxFont.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ToolBox</value>
+  </data>
+  <data name="labelFont.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 42</value>
+  </data>
+  <data name="&gt;&gt;btnRRect.Parent" xml:space="preserve">
+    <value>Type_groupBox</value>
+  </data>
+  <data name="comboBoxTxtSize.Items2" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;Type_groupBox.Name" xml:space="preserve">
+    <value>Type_groupBox</value>
+  </data>
+  <data name="&gt;&gt;Text_groupBox.Name" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="comboBoxTxtAlign.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 21</value>
+  </data>
+  <data name="&gt;&gt;btnRRect.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>170, 390</value>
+  </data>
+  <data name="btnEllipse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="btnLoad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="labelAlign.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelFont.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Name" xml:space="preserve">
+    <value>btnLoad</value>
+  </data>
+  <data name="comboBoxTxtAlign.Items4" xml:space="preserve">
+    <value>Center</value>
+  </data>
+  <data name="Type_groupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 3</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;Type_groupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Width_groupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 83</value>
+  </data>
+  <data name="labelSize.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnLine.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 17</value>
+  </data>
+  <data name="&gt;&gt;labelSize.Name" xml:space="preserve">
+    <value>labelSize</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxTxtAlign.Items" xml:space="preserve">
+    <value>Left</value>
+  </data>
+  <data name="comboBoxFont.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;btnLine.Parent" xml:space="preserve">
+    <value>Type_groupBox</value>
+  </data>
+  <data name="comboBoxTxtSize.Items4" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="trackBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="Text_groupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="comboBoxFont.Items3" xml:space="preserve">
+    <value>Broad Way</value>
+  </data>
+  <data name="&gt;&gt;btnLineColor.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelAlign.Name" xml:space="preserve">
+    <value>labelAlign</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 390</value>
+  </data>
+  <data name="btnLine.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnTxtColor.Name" xml:space="preserve">
+    <value>btnTxtColor</value>
+  </data>
+  <data name="trackBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 123</value>
+  </data>
+  <data name="SaveLoad_groupBox.Text" xml:space="preserve">
+    <value>Save / Load</value>
+  </data>
+  <data name="&gt;&gt;btnEllipse.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtSize.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="comboBoxTxtSize.Items5" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="comboBoxFont.Items" xml:space="preserve">
+    <value>Times New Roman</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtAlign.Name" xml:space="preserve">
+    <value>comboBoxTxtAlign</value>
+  </data>
+  <data name="btnRect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 17</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Name" xml:space="preserve">
+    <value>numericUpDown1</value>
+  </data>
+  <data name="labelAlign.Text" xml:space="preserve">
+    <value>Align:</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="SaveLoad_groupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 333</value>
+  </data>
+  <data name="btnTxtColor.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="comboBoxTxtSize.Items" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;Width_groupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="SaveLoad_groupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="comboBoxTxtSize.Items6" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="comboBoxTxtAlign.Items1" xml:space="preserve">
+    <value>Right</value>
+  </data>
+  <data name="Width_groupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 55</value>
+  </data>
+  <data name="btnLoad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 17</value>
+  </data>
+  <data name="comboBoxTxtAlign.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="comboBoxTxtAlign.Items2" xml:space="preserve">
+    <value>Up</value>
+  </data>
+  <data name="comboBoxTxtSize.Items7" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="btnTxtColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 161</value>
+  </data>
+  <data name="btnLine.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;labelAlign.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SaveLoad_groupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 50</value>
+  </data>
+  <data name="btnRRect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 47</value>
+  </data>
+  <data name="&gt;&gt;Text_groupBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelAlign.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="labelFont.Text" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="btnLineColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 20</value>
+  </data>
+  <data name="&gt;&gt;btnLine.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelFont.Name" xml:space="preserve">
+    <value>labelFont</value>
+  </data>
+  <data name="&gt;&gt;labelSize.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnRect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 13</value>
+  </data>
+  <data name="&gt;&gt;labelFont.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="labelSize.Text" xml:space="preserve">
+    <value>Size:</value>
+  </data>
+  <data name="comboBoxTxtSize.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 18</value>
+  </data>
+  <data name="&gt;&gt;SaveLoad_groupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Rotate:</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnLineColor.Parent" xml:space="preserve">
+    <value>Width_groupBox</value>
+  </data>
+  <data name="&gt;&gt;comboBoxFont.Name" xml:space="preserve">
+    <value>comboBoxFont</value>
+  </data>
+  <data name="comboBoxFont.Items1" xml:space="preserve">
+    <value>Arial</value>
+  </data>
+  <data name="&gt;&gt;comboBoxTxtAlign.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;SaveLoad_groupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnLineColor.Text" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="&gt;&gt;comboBoxFont.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnEllipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 47</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelAlign.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 13</value>
+  </data>
+  <data name="labelAlign.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 90</value>
+  </data>
+  <data name="btnEllipse.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Text_groupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxFont.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 39</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnSave.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRRect.Name" xml:space="preserve">
+    <value>btnRRect</value>
+  </data>
+  <data name="&gt;&gt;SaveLoad_groupBox.Name" xml:space="preserve">
+    <value>SaveLoad_groupBox</value>
+  </data>
+  <data name="&gt;&gt;labelFont.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SaveLoad_groupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;comboBoxFont.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Type_groupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 80</value>
+  </data>
+  <data name="trackBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 45</value>
+  </data>
+  <data name="&gt;&gt;btnEllipse.Parent" xml:space="preserve">
+    <value>Type_groupBox</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Parent" xml:space="preserve">
+    <value>Width_groupBox</value>
+  </data>
+  <data name="&gt;&gt;btnLineColor.Name" xml:space="preserve">
+    <value>btnLineColor</value>
+  </data>
+  <data name="&gt;&gt;btnTxtColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxTxtSize.Items3" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>Text_groupBox</value>
+  </data>
+  <data name="btnSave.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="btnLoad.Text" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="btnSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="&gt;&gt;btnEllipse.Name" xml:space="preserve">
+    <value>btnEllipse</value>
+  </data>
+  <data name="labelFont.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Text_groupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 195</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnSave.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>

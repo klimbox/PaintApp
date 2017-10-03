@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Paint.Presenter.Views;
+using System.Globalization;
+using System.Threading;
 
 
 namespace Paint.UI
@@ -16,6 +18,8 @@ namespace Paint.UI
     {
         public MainForm()
         {
+            //Thread.CurrentThread.CurrentUICulture = new CultureInfo("ru-UA");
+
             InitializeComponent();
         }
 
